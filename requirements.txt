@@ -1,0 +1,8 @@
+pandoc
+mkdocs
+mkdocs-material
+requests
+fontawesome-markdown 
+mike 
+mkdocs-git-revision-date-plugin
+mkdocs-pandoc-plugin

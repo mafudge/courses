@@ -9,8 +9,7 @@
 		"ghcr.io/rocker-org/devcontainer-features/pandoc:1": {}
 		// "ghcr.io/devcontainers-contrib/features/mkdocs:2": {}
 	},
-
-
+ 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 

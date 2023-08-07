@@ -48,6 +48,7 @@ This course is appropriate for students seeking careers or with an interest in b
 
 Taking this course will provide the following learning outcomes: 
 
+
 1. Technical Knowledge
 
 You will gain technical knowledge and comprehension about data warehouses. You will develop the ability to apply these technologies to solve information problems at the individual and organizational levels. After completing this course, you will be able to:
@@ -60,16 +61,20 @@ You will gain technical knowledge and comprehension about data warehouses. You w
 - Create database objects using popular database management system products
 - Design and implement data warehouse and business intelligence components
 
+
 2. Management of Solution Development
 
 You will gain knowledge and comprehension of the disciplines used in the development of data warehouse solutions. You will develop the ability to apply these disciplines in developing solutions for certain organizational and business problems. After completing this course, you will be able to:
+
 - Define the roles and responsibilities in the design and development of data warehouses
 - Differentiate various requirements gathering and dimensional modeling techniques
 - Define project management guidelines
 
+
 3. Management of Information Technology
 
 You will be able to integrate technical and solution development concepts with the principles of data governance, strategic alignment and information analysis. You will be able to apply these concepts in the analysis of complex management case studies and problems. After completing this course, you will be able to:
+
 - Describe the data governance concepts
 - List some of the recent trends in Data Warehouse
 
@@ -145,37 +150,50 @@ Your team should decide how best to accomplish this. Git repository, cloud file 
 
 #### Outline of Project Artifacts
 
-1.	Project Document:  
-  a.	Assemble a Project Charter and team members  
-  b.	Devise a project plan  
-  c.	Outline functional requirements based on your activity of profiling data in the case study.  
-  d.	Overview which business processes you will model from those functional requirements and explain their business value.  
-  e.	Assign primary roles to your team members  
-2.	High-level dimensional modeling  
-  a.	Bus matrix  
-  b.	Outline any issues, questions, or doubts you have   
-3.	Detail-level dimensional modeling   
-  a.	Fully completed dimensions and facts table designs in the worksheet  
-  b.	Identified sources for your source to target map (high level just shows source to target Db's and schemas)   
-  c. Establish Naming conventions and project standards  
-4.	Data Warehouse Implementation  
-  a.	Following your conventions / standards  
-  b.	Adopts techniques learned in the course, such as use of staging and enterprise bus, OBT.  
-5.	Initial Loads Data Pipeline (ETL/ELT) done:  
-  a.	Source to target maps (can be generated from ETL tool).  
-  b.	Source code for Data pipeline.  
-  c.  Documentation for Data Pipelines (can be generated)  
-  d.	Other ETL Documentation as needed: Such as data quality, master data or survivorship rules you may have used.
-6.	Business Intelligence:  
-  a.	BI Documentation: Briefly explain the goal of your analytics and what type of BI it is.  
-  b.	BI Dashboard or Application in Power BI or Tableau.  
-  c.  Other BI Documentation as needed: Use of KPI's or other semantic metadata you may have used. Explanation of applications of drill-across or drill-through for example.
-7.	Presentation and Demo  
-  a.	Presentation and demo cannot exceed 10 minutes total.   
-  b.  Brief overview of your project plan and goals (keep it at an executive level)  
-  c.	A quick demo of your BI Application, no more than 5 minutes, emphasizing how it achieved b.  
-  d.	A brief reflection on the experience, what you'd do if you had more time, etc.  
-  e.  Should be a recorded video with shareable link.  
+1.	Project Document:
+
+    a.	Assemble a Project Charter and team members
+    b.	Devise a project plan
+    c.	Outline functional requirements based on your activity of profiling data in the case study.
+    d.	Overview which business processes you will model from those functional requirements and explain their business value.
+    e.	Assign primary roles to your team members
+
+2.	High-level dimensional modeling
+
+    a.	Bus matrix
+    b.	Outline any issues, questions, or doubts you have
+
+3.	Detail-level dimensional modeling
+
+    a.	Fully completed dimensions and facts table designs in the worksheet
+    b.	Identified sources for your source to target map (high level just shows source to target Db's and schemas)
+    c. Establish Naming conventions and project standards
+
+4.	Data Warehouse Implementation
+
+    a.	Following your conventions / standards
+    b.	Adopts techniques learned in the course, such as use of staging and enterprise bus, OBT.
+
+5.	Initial Loads Data Pipeline (ETL/ELT) done:
+
+    a.	Source to target maps (can be generated from ETL tool).
+    b.	Source code for Data pipeline.
+    c.  Documentation for Data Pipelines (can be generated)
+    d.	Other ETL Documentation as needed: Such as data quality, master data or survivorship rules you may have used.
+
+6.	Business Intelligence:
+
+    a.	BI Documentation: Briefly explain the goal of your analytics and what type of BI it is.
+    b.	BI Dashboard or Application in Power BI or Tableau.
+    c.  Other BI Documentation as needed: Use of KPI's or other semantic metadata you may have used. Explanation of applications of drill-across or drill-through for example.
+
+7.	Presentation and Demo
+
+    a.	Presentation and demo cannot exceed 10 minutes total.
+    b.  Brief overview of your project plan and goals (keep it at an executive level)
+    c.	A quick demo of your BI Application, no more than 5 minutes, emphasizing how it achieved b.
+    d.	A brief reflection on the experience, what you'd do if you had more time, etc.
+    e.  Should be a recorded video with shareable link.
 
 #### Project Milestones
 
@@ -282,6 +300,7 @@ Here are some guidelines for completing the project. Answering “yes” to all 
 ### Topic: A - Introduction to Data Warehousing
 
 Readings / Videos: 
+
 - Course Syllabus
 - Rainardi, V. (2008). Building a data warehouse with examples in SQL Server. Apress, Ch 1.
 - What Is a Data Warehouse? (365 Data Science). Www.youtube.com. 
@@ -304,12 +323,14 @@ In Class Agenda:
 ### Topic: B - Data Warehouse Tools and Architectures
 
 Readings / Videos: 
+
 - Kimball, R., & Ross, M. (2013). The data warehouse toolkit : the definitive guide to dimensional modeling (3rd ed.). John Wiley & Sons, Inc., Ch 1.
 - Let’s Compare the Kimball and Inmon Data Warehouse Architectures. (nullQueries). Www.youtube.com. https://www.youtube.com/watch?v=Tff34jj_V-0
 - Data Vault vs Traditional Data Warehouse Architectures. (nullQueries). Www.youtube.com. https://www.youtube.com/watch?v=D914nNWGP6E
 
 ‌
 Due before class:
+
 - Assignment A
 
 In Class Agenda:
@@ -328,10 +349,12 @@ In Class Agenda:
 ### Topic: C - Planning The Data Warehouse
 
 Readings / Videos: 
+
 - Rainardi (2008) Ch 3,4
 - Kimball (2013) Ch 17
 
 Due before class:
+
 - Half of assignment B
 
 In Class Agenda:
@@ -350,10 +373,12 @@ In Class Agenda:
 ### Topic: D - Dimensional Modeling
 
 Readings / Videos: 
+
 - Kimball (2013) Ch 2
 - Is Kimball’s Dimensional Modelling dead in 2022? Is OBT (“one big table”) the way to go? (2022, May 3). https://www.reddit.com/r/dataengineering/comments/uhohlv/is_kimballs_dimensional_modelling_dead_in_2022_is/
 
 Due before class:
+
 - Assignment B, Assignment C
 
 In Class Agenda:
@@ -372,9 +397,11 @@ In Class Agenda:
 ### Topic: Exam 1, Project Milestone 1 Presentations
 
 Readings / Videos: 
+
 - None
 
 Due before class:
+
 - Project Milestone 1 Presentations
 
 In Class Agenda:
@@ -391,11 +418,13 @@ In Class Agenda:
 ### Topic: E - Data Warehouse Development
 
 Readings / Videos: 
+
 - Intro to the modern stack: https://www.youtube.com/watch?v=-ClWgwC0Sbw
 - What Is The Modern Data Stack - Intro To Data Infrastructure Part 1. (Seattle Data Guy). Www.youtube.com. https://www.youtube.com/watch?v=-ClWgwC0Sbw
 - Tools of The Modern Data Stack. (nullQueries). Www.youtube.com. https://www.youtube.com/watch?v=KKLw9MdcLDw
 
 Due before class:
+
 - Assignment D
 
 In Class Agenda:
@@ -414,11 +443,13 @@ In Class Agenda:
 ### Topic: F - Building Data Pipelines
 
 Readings / Videos: 
+
 - ETL vs ELT | Modern Data Architectures. (Kahan Data Solutions). Www.youtube.com. https://www.youtube.com/watch?v=_Nk0v9qUWk4
 - What Is DBT and Why Is It So Popular - Intro To Data Infrastructure Part 3. (Seattle Data Guy). Www.youtube.com. https://www.youtube.com/watch?v=8FZZivIfJVo
 - Rainardi (2008) Ch 7,8
 
 Due before class:
+
 - Assignment E
 
 In Class Agenda:
@@ -443,9 +474,9 @@ Readings / Videos:
 ‌- Enochson, H. (2019). 27 Examples of Key Performance Indicators. OnStrategy. https://onstrategyhq.com/resources/27-examples-of-key-performance-indicators/
 - Power BI Tutorial in 10 min. (Kevin Stratvert). Www.youtube.com.  https://youtu.be/NNSHu0rkew8
 
-‌
 
 Due before class:
+
 - Assignment F
 
 In Class Agenda:
@@ -464,9 +495,11 @@ In Class Agenda:
 ### Topic: Exam 2, Project Milestone 2 Presentations
 
 Readings / Videos: 
+
 - None
 
 Due before class:
+
 - Project Milestone 2 Presentations
 
 In Class Agenda:
@@ -484,11 +517,13 @@ In Class Agenda:
 ### Topic: H - Incremental Data Pipelines
 
 Readings / Videos: 
+
 - Functional Data Engineering - A Set of Best Practices | Lyft. (n.d.). Www.youtube.com. https://www.youtube.com/watch?v=4Spo2QRTz1k&t=952s
 - Beauchemin, M. (2018, January 8). Functional Data Engineering — a modern paradigm for batch data processing. Medium. https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a
 
 
 Due before class:
+
 - Assignment G
 
 In Class Agenda:
@@ -508,6 +543,7 @@ In Class Agenda:
 ### Topic: I - Managing the Data Warehouse
 
 Readings / Videos: 
+
 - IBM Technology. (2022). What is Master Data Management. In YouTube. https://www.youtube.com/watch?v=l83bkKJh1wM
 - IBM Technology. (2022). Data Governance Explained in 5 Minutes. In YouTube. https://www.youtube.com/watch?v=uPsUjKLHLAg
 - What is Reverse ETL? (Kahan Data Solutions). Www.youtube.com. https://www.youtube.com/watch?v=DRAGfc5or2Y
@@ -515,6 +551,7 @@ Readings / Videos:
 ‌- 4 Native Snowflake Data Quality Checks & Features You Should Know. (2022, April 21). Www.montecarlodata.com. https://www.montecarlodata.com/blog-snowflake-data-quality-features/
 
 Due before class:
+
 - None
 
 In Class Agenda:
@@ -533,11 +570,13 @@ In Class Agenda:
 ### Topic: J - Trends in Data Warehousing 
 
 Readings / Videos: 
+
 - What Is a Lakehouse? (2020, January 30). Databricks. https://www.databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html
 - What Is Apache Iceberg? Features & Benefits. (n.d.). Dremio. Retrieved August 7, 2023, from https://www.dremio.com/resources/guides/apache-iceberg/
 
 
 Due before class:
+
 - None
 
 In Class Agenda:
@@ -555,9 +594,11 @@ In Class Agenda:
 ### Topic: Exam 3, Final Project Presentations
 
 Readings / Videos: 
+
 - None
 
 Due before class:
+
 - Final Project Presentations
 
 In Class Agenda:

@@ -18,6 +18,7 @@ This course is for st
 ## Syllabus
 
 Syllabus[syllabus.md]
+-  [docx](syllabus.docx)
 
 ## Pedagogical Philosophy
 
@@ -25,11 +26,13 @@ TODO
 
 ## Course Materials
 
-TODO
+Course Materials are Available in a Blackboard Course Shell
 
 ## Lab Environment
 
-TODO
+This course uses:
+- DBT Cloud https://www.getdbt.com/signup/ 
+- Snowflake Student 120 day trial https://signup.snowflake.com/?trial=student
 
 ## Instructor Resources
 

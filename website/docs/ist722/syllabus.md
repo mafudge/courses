@@ -218,7 +218,7 @@ Notes:
 - You do not need to turn in any project deliverables until the end, but its recommended to work on your project document as you complete the milestones. 
 
 
-#### Grading Rubric 
+#### Grading Rubric for Project
 
 Here are some guidelines for completing the project. Answering “yes” to all of these implies that your project has the potential to earn the highest marks possible.
 
@@ -232,7 +232,7 @@ Here are some guidelines for completing the project. Answering “yes” to all 
 -	Does your demo confirm you satisfied the functional requirements of the business processes you implemented?
 
 
-### Grading:
+### Grading Summary:
 
 | **Type of Activity** | **Quantity** | **Points Each** | **Total Points** |
 |----------------------|--------------|-----------------|------------------|
@@ -304,7 +304,7 @@ Readings / Videos:
 - Course Syllabus
 - Rainardi, V. (2008). Building a data warehouse with examples in SQL Server. Apress, Ch 1.
 - What Is a Data Warehouse? (365 Data Science). Www.youtube.com. 
-https://www.youtube.com/watch?v=AHR_7jFCMeY 
+[https://www.youtube.com/watch?v=AHR_7jFCMeY](https://www.youtube.com/watch?v=AHR_7jFCMeY) 
 
 In Class Agenda:
 
@@ -325,8 +325,8 @@ In Class Agenda:
 Readings / Videos: 
 
 - Kimball, R., & Ross, M. (2013). The data warehouse toolkit : the definitive guide to dimensional modeling (3rd ed.). John Wiley & Sons, Inc., Ch 1.
-- Let’s Compare the Kimball and Inmon Data Warehouse Architectures. (nullQueries). Www.youtube.com. https://www.youtube.com/watch?v=Tff34jj_V-0
-- Data Vault vs Traditional Data Warehouse Architectures. (nullQueries). Www.youtube.com. https://www.youtube.com/watch?v=D914nNWGP6E
+- Let’s Compare the Kimball and Inmon Data Warehouse Architectures. (nullQueries). Www.youtube.com. [https://www.youtube.com/watch?v=Tff34jj_V-0](https://www.youtube.com/watch?v=Tff34jj_V-0)
+- Data Vault vs Traditional Data Warehouse Architectures. (nullQueries). Www.youtube.com. [https://www.youtube.com/watch?v=D914nNWGP6E](https://www.youtube.com/watch?v=D914nNWGP6E)
 
 ‌
 Due before class:
@@ -375,7 +375,7 @@ In Class Agenda:
 Readings / Videos: 
 
 - Kimball (2013) Ch 2
-- Is Kimball’s Dimensional Modelling dead in 2022? Is OBT (“one big table”) the way to go? (2022, May 3). https://www.reddit.com/r/dataengineering/comments/uhohlv/is_kimballs_dimensional_modelling_dead_in_2022_is/
+- Is Kimball’s Dimensional Modelling dead in 2022? Is OBT (“one big table”) the way to go? (2022, May 3). [https://www.reddit.com/r/dataengineering/comments/uhohlv/is_kimballs_dimensional_modelling_dead_in_2022_is/](https://www.reddit.com/r/dataengineering/comments/uhohlv/is_kimballs_dimensional_modelling_dead_in_2022_is/)
 
 Due before class:
 
@@ -419,9 +419,8 @@ In Class Agenda:
 
 Readings / Videos: 
 
-- Intro to the modern stack: https://www.youtube.com/watch?v=-ClWgwC0Sbw
-- What Is The Modern Data Stack - Intro To Data Infrastructure Part 1. (Seattle Data Guy). Www.youtube.com. https://www.youtube.com/watch?v=-ClWgwC0Sbw
-- Tools of The Modern Data Stack. (nullQueries). Www.youtube.com. https://www.youtube.com/watch?v=KKLw9MdcLDw
+- What Is The Modern Data Stack - Intro To Data Infrastructure Part 1. (Seattle Data Guy). Www.youtube.com. [https://www.youtube.com/watch?v=-ClWgwC0Sbw](https://www.youtube.com/watch?v=-ClWgwC0Sbw)
+- Tools of The Modern Data Stack. (nullQueries). Www.youtube.com. [https://www.youtube.com/watch?v=KKLw9MdcLDw](https://www.youtube.com/watch?v=KKLw9MdcLDw)
 
 Due before class:
 
@@ -444,8 +443,8 @@ In Class Agenda:
 
 Readings / Videos: 
 
-- ETL vs ELT | Modern Data Architectures. (Kahan Data Solutions). Www.youtube.com. https://www.youtube.com/watch?v=_Nk0v9qUWk4
-- What Is DBT and Why Is It So Popular - Intro To Data Infrastructure Part 3. (Seattle Data Guy). Www.youtube.com. https://www.youtube.com/watch?v=8FZZivIfJVo
+- ETL vs ELT | Modern Data Architectures. (Kahan Data Solutions). Www.youtube.com. [https://www.youtube.com/watch?v=_Nk0v9qUWk4](https://www.youtube.com/watch?v=_Nk0v9qUWk4)
+- What Is DBT and Why Is It So Popular - Intro To Data Infrastructure Part 3. (Seattle Data Guy). Www.youtube.com. [https://www.youtube.com/watch?v=8FZZivIfJVo](https://www.youtube.com/watch?v=8FZZivIfJVo)
 - Rainardi (2008) Ch 7,8
 
 Due before class:
@@ -469,10 +468,10 @@ In Class Agenda:
 
 Readings / Videos: 
 
-- Kimball, R. (2003, March 20). The Soul of the Data Warehouse, Part 1: Drilling Down. Kimball Group. https://www.kimballgroup.com/2003/03/the-soul-of-the-data-warehouse-part-one-drilling-down/
-- Kimball, R. (2003, April 5). The Soul of the Data Warehouse, Part 2: Drilling Across. Kimball Group. https://www.kimballgroup.com/2003/04/the-soul-of-the-data-warehouse-part-two-drilling-across/
-‌- Enochson, H. (2019). 27 Examples of Key Performance Indicators. OnStrategy. https://onstrategyhq.com/resources/27-examples-of-key-performance-indicators/
-- Power BI Tutorial in 10 min. (Kevin Stratvert). Www.youtube.com.  https://youtu.be/NNSHu0rkew8
+- Kimball, R. (2003, March 20). The Soul of the Data Warehouse, Part 1: Drilling Down. Kimball Group. [https://www.kimballgroup.com/2003/03/the-soul-of-the-data-warehouse-part-one-drilling-down/](https://www.kimballgroup.com/2003/03/the-soul-of-the-data-warehouse-part-one-drilling-down/)
+- Kimball, R. (2003, April 5). The Soul of the Data Warehouse, Part 2: Drilling Across. Kimball Group. [https://www.kimballgroup.com/2003/04/the-soul-of-the-data-warehouse-part-two-drilling-across/](https://www.kimballgroup.com/2003/04/the-soul-of-the-data-warehouse-part-two-drilling-across/)
+- Enochson, H. (2019). 27 Examples of Key Performance Indicators. OnStrategy. [https://onstrategyhq.com/resources/27-examples-of-key-performance-indicators/(https://onstrategyhq.com/resources/27-examples-of-key-performance-indicators/)]
+- Power BI Tutorial in 10 min. (Kevin Stratvert). Www.youtube.com.  [https://youtu.be/NNSHu0rkew8](https://youtu.be/NNSHu0rkew8)
 
 
 Due before class:
@@ -518,8 +517,8 @@ In Class Agenda:
 
 Readings / Videos: 
 
-- Functional Data Engineering - A Set of Best Practices | Lyft. (n.d.). Www.youtube.com. https://www.youtube.com/watch?v=4Spo2QRTz1k&t=952s
-- Beauchemin, M. (2018, January 8). Functional Data Engineering — a modern paradigm for batch data processing. Medium. https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a
+- Functional Data Engineering - A Set of Best Practices | Lyft. (n.d.). Www.youtube.com. [https://www.youtube.com/watch?v=4Spo2QRTz1k&t=952s](https://www.youtube.com/watch?v=4Spo2QRTz1k&t=952s)
+- Beauchemin, M. (2018, January 8). Functional Data Engineering — a modern paradigm for batch data processing. Medium. [https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a](https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 
 
 Due before class:
@@ -544,11 +543,11 @@ In Class Agenda:
 
 Readings / Videos: 
 
-- IBM Technology. (2022). What is Master Data Management. In YouTube. https://www.youtube.com/watch?v=l83bkKJh1wM
-- IBM Technology. (2022). Data Governance Explained in 5 Minutes. In YouTube. https://www.youtube.com/watch?v=uPsUjKLHLAg
-- What is Reverse ETL? (Kahan Data Solutions). Www.youtube.com. https://www.youtube.com/watch?v=DRAGfc5or2Y
-- Frameworks of Data Governance. (nullQueries). Www.youtube.com. https://www.youtube.com/watch?v=gCwKnaITV8g
-‌- 4 Native Snowflake Data Quality Checks & Features You Should Know. (2022, April 21). Www.montecarlodata.com. https://www.montecarlodata.com/blog-snowflake-data-quality-features/
+- IBM Technology. (2022). What is Master Data Management. In YouTube. [https://www.youtube.com/watch?v=l83bkKJh1wM](https://www.youtube.com/watch?v=l83bkKJh1wM)
+- IBM Technology. (2022). Data Governance Explained in 5 Minutes. In YouTube. [https://www.youtube.com/watch?v=uPsUjKLHLAg](https://www.youtube.com/watch?v=uPsUjKLHLAg)
+- What is Reverse ETL? (Kahan Data Solutions). Www.youtube.com. [https://www.youtube.com/watch?v=DRAGfc5or2Y](https://www.youtube.com/watch?v=DRAGfc5or2Y)
+- Frameworks of Data Governance. (nullQueries). Www.youtube.com. [https://www.youtube.com/watch?v=gCwKnaITV8g](https://www.youtube.com/watch?v=gCwKnaITV8g)
+- 4 Native Snowflake Data Quality Checks & Features You Should Know. (2022, April 21). Www.montecarlodata.com. [https://www.montecarlodata.com/blog-snowflake-data-quality-features/](https://www.montecarlodata.com/blog-snowflake-data-quality-features/)
 
 Due before class:
 
@@ -571,8 +570,8 @@ In Class Agenda:
 
 Readings / Videos: 
 
-- What Is a Lakehouse? (2020, January 30). Databricks. https://www.databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html
-- What Is Apache Iceberg? Features & Benefits. (n.d.). Dremio. Retrieved August 7, 2023, from https://www.dremio.com/resources/guides/apache-iceberg/
+- What Is a Lakehouse? (2020, January 30). Databricks. [https://www.databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html](https://www.databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html)
+- What Is Apache Iceberg? Features & Benefits. (n.d.). Dremio. Retrieved August 7, 2023, from [https://www.dremio.com/resources/guides/apache-iceberg/](https://www.dremio.com/resources/guides/apache-iceberg/)
 
 
 Due before class:

@@ -52,4 +52,4 @@ If the instructor does not wish to support the installation of Docker desktop on
 
 ## Instructor Resources
 
-- [Instructor's Guide](teaching.md)
+- [Instructor's Guide](https://sumailsyr.sharepoint.com/:w:/s/iSchool2/EfQptpOyFoxKqB39IEnKl_UBBPBGMvfldV4ziiWAFj0Kfg?e=ZA7Imz)

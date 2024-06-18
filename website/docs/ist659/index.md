@@ -34,15 +34,12 @@ The course uses flipped instruction, a.k.a "the Unlecture". Students will watch 
 
 The course is well designed and has a wealth of course materials. In addition, the content is very tightly coupled – the labs, text, videos, homework all go together.  For example, the SQL you see written in the lecture video or textbook can be run in the same lab environment the students use. Students have access to the databases used and the code that was written. This provides a superior student experience as much of the learning translates from activity to activity.
 
-- **Textbook** You can find the textbook I wrote here: https://applieddatabasemanagement.com/ As an instructor, you can request access from the publisher. 
-- **Videos** There are several videos to support the course:
+1. **Textbook** You can find the textbook I wrote here: https://applieddatabasemanagement.com/ As an instructor, you can request access from the publisher. 
+2. **Slides, Labs, Sample Code** [https://github.com/mafudge/ist659](https://github.com/mafudge/ist659) 
+3. **Videos** There are several videos to support the course:
     - Textbook videos: [https://www.youtube.com/watch?v=96uKeHSQMkg&list=PLyRiRUsTyUXghCQTvsCeMjOCVjIIPsopR](https://www.youtube.com/watch?v=96uKeHSQMkg&list=PLyRiRUsTyUXghCQTvsCeMjOCVjIIPsopR)
     - Pre-recorded lectures: [https://www.youtube.com/watch?v=WCNLH9CFN6o&list=PLyRiRUsTyUXjzOociFB7jak16OrpntUZk](https://www.youtube.com/watch?v=WCNLH9CFN6o&list=PLyRiRUsTyUXjzOociFB7jak16OrpntUZk)
     - Other Supporting Videos for Lab: [https://www.youtube.com/watch?v=CxCUrQ6knRo&list=PLyRiRUsTyUXjdMapA5iDlMyQeePwu9mqr](https://www.youtube.com/watch?v=CxCUrQ6knRo&list=PLyRiRUsTyUXjdMapA5iDlMyQeePwu9mqr)  
-    
-
-The rest of the content can be found in the course, whether on-campus or on-line. 
-
 
 ## Lab Environment
 

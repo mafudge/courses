@@ -16,7 +16,7 @@ This course is for beginners.
 
 ## Syllabus
 
-- [Campus Syllabus](syllabus-campus.md)  
+- Campus Syllabus:
     - [docx](syllabus-campus.docx)
 - [Online Syllabus](syllabus-online.md)  
     - [docx](syllabus-online.docx)
